@@ -38,6 +38,8 @@ Open any `.ipynb` file in Jupyter Notebook and run cells sequentially.
 GPU is not required; all experiments reproduce on CPU.
 
 ## Citation
-Bobyr M.V. Architecture of Large Language Models with Fuzzy Logic Generation Control. 2026.
-GitHub: https://github.com/[your-username]/FuzzyLLM
+```
+Bobyr M.V. Large Language Model Architecture and Fuzzy Logic Control 
+of Text Generation. 2026.
+GitHub: https://github.com/MaxBobyr1978/fuzzy-llm-controller
 ```
